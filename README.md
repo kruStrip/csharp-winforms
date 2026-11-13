@@ -1,16 +1,16 @@
 # C# WinForms: практикум
 
-Работы по Windows Forms: формы, таймеры, анимация, планировщик задач.
+Работы по Windows Forms: формы, таймеры, анимация, игры и мини-приложения.
 
-**Стек:** C# · WinForms
+**Стек:** C# · WinForms · .NET 8
 
 ## Что внутри
 
-- `Animated_Image_Slider` — слайдер с анимацией
-- `Tapalka` — игра
-- `Task Scheduler` — планировщик
-- `Form1.*`, `Program.cs` — базовая форма
+- `task-scheduler` — планировщик задач
+- `clicker` — игра-кликер
+- `animated-image-slider` — слайдер с анимацией картинок
+- `text-editor` — текстовый редактор
 
 ## Запуск
 
-Открыть проект в Visual Studio и запустить.
+Открыть `csharp-winforms.sln` в Visual Studio и запустить нужный проект.
